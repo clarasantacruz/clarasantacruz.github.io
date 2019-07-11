@@ -133,7 +133,7 @@ section {
   height: 663px;
   left: -20px;
   top: 360px;
-  background-image: url(capybarainthewild.jpg);
+  background-image: url("capybarainthewild.jpg");
   background-repeat: no-repeat;
   z-index: 1;
 }
